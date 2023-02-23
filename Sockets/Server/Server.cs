@@ -30,11 +30,6 @@ namespace Server
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
-                using (StreamWriter sw = new StreamWriter("C:\\Users\\Dominylas\\Desktop\\SWSR\\ding.txt"))
-                {
-                    sw.WriteLine(ex);
-                    sw.WriteLine(ex.StackTrace);
-                }
             }
             Console.ReadKey();
         }
