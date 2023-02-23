@@ -1,0 +1,15 @@
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Client.exe
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Client.deps.json
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Client.dll
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Client.pdb
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.dll
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.pdb
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\ref\Client.dll

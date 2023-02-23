@@ -1,0 +1,15 @@
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Sockets.exe
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Sockets.deps.json
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Sockets.runtimeconfig.json
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Sockets.dll
+C:\Users\Dominylas\source\repos\Sockets\Sockets\bin\Debug\net7.0\Sockets.pdb
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.csproj.AssemblyReference.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.AssemblyInfoInputs.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.AssemblyInfo.cs
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.dll
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\refint\Sockets.dll
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.pdb
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\Sockets.genruntimeconfig.cache
+C:\Users\Dominylas\source\repos\Sockets\Sockets\obj\Debug\net7.0\ref\Sockets.dll
